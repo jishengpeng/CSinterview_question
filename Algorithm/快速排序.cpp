@@ -1,4 +1,4 @@
-//快速排序的模板题https://www.luogu.com.cn/problem/P1177
+//蹇�熸帓搴忔ā鏉块https://www.luogu.com.cn/problem/P1177
 #include <iostream>
 using namespace std;
 
