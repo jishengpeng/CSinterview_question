@@ -27,7 +27,8 @@
 ![image](https://user-images.githubusercontent.com/78149477/185525922-8552fdec-bb9e-4e89-92b3-db54021c1d50.png)
 #### 10.分析一下随机森林（多个决策树，每个决策树都只能看到部分数据，最终将每个决策树的结果整合起来）
 #### 11.分析一下朴素贝叶斯（就是条件概率，拉普拉斯平滑技巧，就是在每一个关键词的上面默认有一个次数）
-![image](https://user-images.githubusercontent.com/78149477/185534474-f9873084-41d5-4a95-8915-54b4c5165f9b.png)
+![image](https://user-images.githubusercontent.com/78149477/185534716-383cd857-dc41-4cfc-b0df-f756ab013cd6.png)
+
 
 
 
