@@ -16,7 +16,7 @@ int main() {
 	int len1 = str1.length();
 	int len2 = str2.length();
 	//判断主串的位置和字串的位置
-	int i = 0, j = 0,k=0;
+	int i = 0, j = 0, k=0;//和一般的暴力不同，我这里引入了三个指针
 	while (i <= len1 - len2) {
 		if (j == len2) {
 			cout << "能够找到";
