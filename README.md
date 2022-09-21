@@ -32,13 +32,15 @@
 （2）.介绍你的爱好
 （3）.英文自我介绍简历
 
-good morning, dear distinguished teacher.it is my honor to take part in this interview。
+3.good morning, dear distinguished teacher.it is my honor to take part in this interview。
 My name is jishengpeng。I am a student majoring in Software engineering in Jilin University。
 And I get national scholarship in my college life;
 In the following time，I will mainly introduce my scientific research experience。
 I have two papers。One of the papers is in the delivery state。It is a CCFA conference paper that the conference is INFOCOM。The main content of the paper is about Neural network architecture search（NAS），which is a very hot and cutting-edge direction in the field of deep learning and network intelligence。The name of paper is ‘’’。We design an architecture .the architecture can automatically design the neural network for multi objects according to different datasets。I was responsible for most of the work。
 Another paper was accepted。This is a CCFB Chinese journal paper. The name of the paper is College Entrance Examination volunteer recommendation system based on score prediction. I was mainly responsible for data mining and the establishment of prediction models。The part of the prediction is also about neural network and deep learning.
 That is my situation。Thank you for your listening.
+
+2.	I live in nantong.it is in the east of Jiangsu province and it is very close to shanghai。Nantong has a very beautiful natural landscape。Such as Langshan and haohe. People in Nantong are also very enthusiastic. We are glad to try our best to help others. If I choose plane/train as my vehicle. It will take me ** hours from nantong to ****.
 #### 13.分析一下特征值，特征向量，矩阵地秩，向量组的秩，向量组的极大无关组，线性相关和线性无关，求逆矩阵的方法。
 #### 14.说一下你的论文的题目(seu)
 《基于分数线预测的多特征融合高考志愿推荐算法》
