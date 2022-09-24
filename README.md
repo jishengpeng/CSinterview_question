@@ -42,7 +42,7 @@ That is my situation。Thank you for your listening.
 
 2.I live in nantong.it is in the east of Jiangsu province and it is very close to shanghai。Nantong has a very beautiful natural landscape。Such as Langshan and haohe. People in Nantong are also very enthusiastic. We are glad to try our best to help others. If I choose plane/train as my vehicle. It will take me ** hours from nantong to ****.
 
-#### 13.分析一下行阶梯矩阵，行最简矩阵，特征值，特征向量，矩阵地秩，向量组的秩，向量组的极大无关组，线性相关和线性无关，求逆矩阵的方法。
+#### 13.分析一下行阶梯矩阵，行最简矩阵，特征值，特征向量（齐次线性方程组的通解，先求基础解系），矩阵地秩，向量组的秩，向量组的极大无关组，线性相关和线性无关，求逆矩阵的方法。齐次线性方程组（基础解系就是线性无关加上都能表示），非齐次线性方程组（特解加上通解）。
 #### 14.说一下你的论文的题目(seu)
 《基于分数线预测的多特征融合高考志愿推荐算法》
 《self-growing neural network for multi-object network classification》
@@ -75,6 +75,10 @@ try标识异常所在范围,catch捕获异常，里面跟异常的类型，throw
 ###### CPU和GPU在架构上的区别：（问到这个谁会啊。）
 ![image](https://user-images.githubusercontent.com/78149477/191991262-f55f110b-6de7-4ec8-9db2-32582f7e0d06.png)
 ###### 如何对GPU的优化来加速网络：（问这个的老师就是傻逼。）
+## 概率论
+###### 条件概率，几大概率公式，概率密度，正态分布。标准正态分布，协方差。大数定律和中心极限定理。（了解概念）。
+## 高数
+###### 傅里叶系数
 
 
 
