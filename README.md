@@ -42,7 +42,7 @@ That is my situation。Thank you for your listening.
 
 2.I live in nantong.it is in the east of Jiangsu province and it is very close to shanghai。Nantong has a very beautiful natural landscape。Such as Langshan and haohe. People in Nantong are also very enthusiastic. We are glad to try our best to help others. If I choose plane/train as my vehicle. It will take me ** hours from nantong to ****.
 
-#### 13.分析一下特征值，特征向量，矩阵地秩，向量组的秩，向量组的极大无关组，线性相关和线性无关，求逆矩阵的方法。
+#### 13.分析一下行阶梯矩阵，行最简矩阵，特征值，特征向量，矩阵地秩，向量组的秩，向量组的极大无关组，线性相关和线性无关，求逆矩阵的方法。
 #### 14.说一下你的论文的题目(seu)
 《基于分数线预测的多特征融合高考志愿推荐算法》
 《self-growing neural network for multi-object network classification》
